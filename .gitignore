@@ -28,3 +28,5 @@
 
 # I don't want to show my secrets
 /config/secrets.yml
+/config/credentials.yml.enc
+/config/storage.yml
