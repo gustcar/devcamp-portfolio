@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c11208db-05cd-4805-ba16-58a4ca75f97c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/controllers/blogs_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/blogs_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/blog.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/blog.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/blogs/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/blogs/index.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -28,8 +25,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/controllers/portfolios_controller.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1274">
-                  <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+                <state relative-caret-position="2016">
+                  <caret line="56" selection-start-line="56" selection-end-line="56" />
                 </state>
               </provider>
             </entry>
@@ -37,8 +34,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/controllers/blogs_controller.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="546">
-                  <caret line="68" column="7" lean-forward="true" selection-start-line="68" selection-start-column="7" selection-end-line="68" selection-end-column="7" />
+                <state relative-caret-position="159">
+                  <caret line="68" column="7" selection-start-line="68" selection-start-column="7" selection-end-line="68" selection-end-column="7" />
                 </state>
               </provider>
             </entry>
@@ -46,7 +43,7 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/views/blogs/index.html.erb">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="230">
+                <state relative-caret-position="648">
                   <caret line="18" column="65" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
                 </state>
               </provider>
@@ -60,7 +57,7 @@
             <entry file="file://$PROJECT_DIR$/app/models/blog.rb">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="180">
-                  <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+                  <caret line="5" selection-start-line="5" selection-end-line="5" />
                 </state>
               </provider>
             </entry>
@@ -96,7 +93,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
+  <component name="ProjectFrameBounds" extendedState="5">
     <option name="x" value="1600" />
     <option name="y" value="31" />
     <option name="width" value="1600" />
@@ -256,12 +253,13 @@
       <workItem from="1562950469947" duration="174000" />
       <workItem from="1562951256429" duration="4890000" />
       <workItem from="1563018483087" duration="1892000" />
-      <workItem from="1563125612599" duration="6206000" />
+      <workItem from="1563125612599" duration="6806000" />
+      <workItem from="1563187238746" duration="233000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13162000" />
+    <option name="totallyTimeSpent" value="14007000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1600" y="31" width="1600" height="1769" extended-state="4" />
@@ -328,22 +326,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/portfolios_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1274">
-          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+        <state relative-caret-position="2016">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/blogs/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="18" column="65" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/blogs_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="68" column="7" selection-start-line="68" selection-start-column="7" selection-end-line="68" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/blog.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/blogs/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="18" column="65" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
@@ -351,13 +356,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/blogs_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="68" column="7" lean-forward="true" selection-start-line="68" selection-start-column="7" selection-end-line="68" selection-end-column="7" />
         </state>
       </provider>
     </entry>
