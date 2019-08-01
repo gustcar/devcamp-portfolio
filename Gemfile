@@ -60,3 +60,6 @@ gem 'jquery-rails'
 
 # my gems
 gem 'devcamp_view_tool', git: 'https://github.com/gustcar/devcamp_view_tool'
+
+# petergate gem
+gem 'petergate', '~> 2.0', '>= 2.0.1'
