@@ -5,7 +5,7 @@ class PortfoliosController < ApplicationController
 
   def index
     # Portfolio is a model
-    @portfolio_items = Portfolio.all
+    @portfolio_items = Portfolio.by_position
   end
 
   def angular
