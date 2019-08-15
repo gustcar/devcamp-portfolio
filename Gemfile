@@ -60,14 +60,19 @@ gem 'jquery-rails'
 
 # my gems
 gem 'devcamp_view_tool', git: 'https://github.com/gustcar/devcamp_view_tool'
-
 # petergate gem
 gem 'petergate', '~> 2.0', '>= 2.0.1'
-
 # font awesome
 gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.5'
-
 # kaminari (pagination)
 gem 'kaminari', '~> 1.1', '>= 1.1.1'
-
+#
 gem 'jquery-ui-rails', '~> 6.0', '>= 6.0.1'
+# Upload files in your Ruby applications, map them to a range of ORMs, store them on different backends.
+gem 'carrierwave', '~> 1.3', '>= 1.3.1'
+# Manipulate images with minimal use of memory via ImageMagick / GraphicsMagick
+gem 'mini_magick', '~> 4.9', '>= 4.9.5'
+# Use aws-sdk for S3 support in CarrierWave
+gem 'carrierwave-aws', '~> 1.3'
+# Autoload dotenv in Rails.
+gem 'dotenv-rails', '~> 2.7', '>= 2.7.5'
