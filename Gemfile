@@ -78,3 +78,6 @@ gem 'carrierwave-aws', '~> 1.3'
 gem 'dotenv-rails', '~> 2.7', '>= 2.7.5'
 # Unobtrusive nested forms handling, using jQuery. Use this and discover cocoon-heaven.
 gem 'cocoon', '~> 1.2', '>= 1.2.14'
+# This Ruby on Rails gem allows you to easily add Growl-like notifications to your application using a jQuery plugin
+# called 'gritter'.
+gem 'gritter', '~> 1.2'
