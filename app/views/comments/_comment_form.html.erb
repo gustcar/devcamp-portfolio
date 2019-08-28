@@ -1,5 +1,9 @@
 <% unless current_user.is_a? GuestUser %>
+<<<<<<< HEAD
   <%= form_with(model: @comment, local: true, url: '#', class: 'new_comment', id: 'new_comment') do |form| %>
+=======
+  <%= form_with(model: @comment, url: '#',local: true, id: 'new_comment', class: 'new_comment') do |form| %>
+>>>>>>> 66a67007c622609fb8cdd25e9d447d2e34ac405c
     <div class="form-group">
       <%= form.label :content %>
       <%= form.text_area :content, class: 'form-control' %>
