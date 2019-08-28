@@ -7,5 +7,17 @@
   <p>
     <%= @blog.body %>
   </p>
+<<<<<<< HEAD
 
+  <%= render 'comments/comment_form' %>
+  <div id="comments" data-blog-id="<%= @blog.id %>" >
+    <%= render @blog.comments %>
+  </div>
+
+=======
+  <%= render 'comments/comment_form' %>
+  <div id="comments" data-blog-id="<%= @blog.id %>">
+    <%= render @blog.comments %>
+  </div>
+>>>>>>> 66a67007c622609fb8cdd25e9d447d2e34ac405c
 </div><!-- /.blog-main -->
