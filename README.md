@@ -1,24 +1,5 @@
 # Devcamp Portfolio Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Important!
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+> This application is part of a Udemy tutorial! It is **not** part of my portfolio.
