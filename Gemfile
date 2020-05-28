@@ -65,7 +65,7 @@ gem 'petergate', '~> 2.0', '>= 2.0.1'
 # font awesome
 gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.5'
 # kaminari (pagination)
-gem 'kaminari', '~> 1.1', '>= 1.1.1'
+gem 'kaminari', '~> 1.2'
 #
 gem 'jquery-ui-rails', '~> 6.0', '>= 6.0.1'
 # Upload files in your Ruby applications, map them to a range of ORMs, store them on different backends.
